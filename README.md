@@ -157,6 +157,12 @@ After the installation is complete, run `npm start` in the terminal to launch th
 <br>
 
 ### 5. Open the Backend Code in IntelliJ
+> [!NOTE]
+> If you don’t plan to look into the source code or test it directly, and just want to run the backend app without using an IDE like IntelliJ, you can simply open a terminal or PowerShell, navigate to `webrtc-tutorial/backend`, and run `./gradlew bootRun`. <br>
+Then, you can skip the backend app setup steps below and start from step 8 🙂
+
+
+
 <p align="left">
 <img alt="스크린샷 2025-05-24 오후 8 17 44" src="https://github.com/user-attachments/assets/666e4ef2-58e8-48f8-86d1-3d29761d70b1" height="350"/>
 <img alt="스크린샷 2025-05-24 오후 8 18 23" src="https://github.com/user-attachments/assets/4f7924c1-9835-445e-8ddb-c095b37d4912" width="300"/>
